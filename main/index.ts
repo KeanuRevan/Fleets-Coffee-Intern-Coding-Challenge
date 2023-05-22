@@ -22,3 +22,6 @@ function firstNonRepeated(givenString: String) {
 console.log(firstNonRepeated("hello"));    // Output: "h"
 console.log(firstNonRepeated("aabcc"));    // Output: "b"
 console.log(firstNonRepeated("aabbcc"));   // Output: ""
+
+// npm install -g typescript
+// Compile index.ts to index.js using "tsc index.ts"
